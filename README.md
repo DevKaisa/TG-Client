@@ -1,5 +1,4 @@
-![image](![ezgif-1-87094a591f](https://github.com/DevKaisa/TG-Client/assets/85251847/d000261c-f61d-4ea6-a970-25ebc626aa3a)
-)
+  ![image](https://cdn.discordapp.com/attachments/1023993308164399225/1138403499407855737/ezgif-1-87094a591f.png)
 
 # TGClient
 Latest Version of the TGClient

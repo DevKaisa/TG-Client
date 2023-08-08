@@ -1,3 +1,6 @@
+![image](![ezgif-1-87094a591f](https://github.com/DevKaisa/TG-Client/assets/85251847/d000261c-f61d-4ea6-a970-25ebc626aa3a)
+)
+
 # TGClient
 Latest Version of the TGClient
 
